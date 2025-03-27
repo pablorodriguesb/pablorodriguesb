@@ -33,13 +33,14 @@ Me chamo Pablo Rodrigues Batista, desenvolvedor com foco em backend e APIs REST.
             src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/pablorodriguesb_">
-        <img 
-            alt="Instagram" 
-            title="Meu Instagram" 
-            src="https://img.shields.io/badge/Instagram-0088cc?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a
+ <a href="https://www.hackerrank.com/pablobigroom" target="_blank">
+    <img 
+        alt="HackerRank" 
+        title="Visite meu perfil HackerRank" 
+        src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
+    />
+</a>
+
 
 </p>
 
@@ -122,15 +123,6 @@ Me chamo Pablo Rodrigues Batista, desenvolvedor com foco em backend e APIs REST.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 <a href="https://www.hackerrank.com/profile/pablobigroom">
-  <img 
-    align="left" 
-    alt="HackerRank" 
-    title="HackerRank" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" 
-  />
-</a>
 <img 
     align="left" 
     alt="VS Code"
