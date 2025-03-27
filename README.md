@@ -56,6 +56,15 @@ Me chamo Pablo Rodrigues Batista, desenvolvedor com foco em backend e APIs REST.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<a href="https://www.hackerrank.com/profile/pablobigroom">
+  <img 
+    align="left" 
+    alt="HackerRank" 
+    title="HackerRank" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src
+
 <img 
     align="left" 
     alt="Spring Boot" 
