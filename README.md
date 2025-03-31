@@ -33,7 +33,7 @@ Me chamo Pablo Rodrigues Batista, desenvolvedor com foco em backend e APIs REST.
             src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
- <a href="https://www.hackerrank.com/pablobigroom" target="_blank">
+ <a href="https://www.hackerrank.com/profile/pablo_csstep" target="_blank">
     <img 
         alt="HackerRank" 
         title="Visite meu perfil HackerRank" 
