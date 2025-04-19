@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Pablo Rodrigues Batista, desenvolvedor com foco em backend e APIs REST. Tenho experiência com Spring Boot, Hibernate, e banco de dados como MySQL e PostgreSQL. Busco sempre aplicar boas práticas de arquitetura e padrões de projeto para criar soluções robustas e escaláveis.
+Me chamo Pablo Rodrigues Batista, desenvolvedor com foco em backend e APIs REST. Tenho experiência com Spring Boot, Hibernate, e banco de dados relacional e não relacional. Busco sempre aplicar boas práticas de arquitetura e padrões de projeto para criar soluções robustas e escaláveis.
 
 <p align="left">
     <a href="https://github.com/pablorodriguesb/">
