@@ -124,7 +124,7 @@ Estou sempre em busca de aprimorar minhas habilidades técnicas e aplicar as mel
 
 <div align="center">
   
-  [![Email Badge](https://img.shields.io/badge/-pablo.rodriguesbat@hotmail.com-005FF9?style=flat-square&logo=maildotru&logoColor=white&link=mailto:pablo.rodriguesbat@hotmail.com)](mailto:pablo.rodriguesbat@hotmail.com)
+  [![Email Badge](https://img.shields.io/badge/-pablo.rodriguesbat@gmail.com-005FF9?style=flat-square&logo=maildotru&logoColor=white&link=mailto:pablo.rodriguesbat@gmail.com)](mailto:pablo.rodriguesbat@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Rodrigues-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pablorodriguesb/)](https://www.linkedin.com/in/pablorodriguesb/)
   [![GitHub Badge](https://img.shields.io/badge/-pablorodriguesb-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/pablorodriguesb)](https://github.com/pablorodriguesb)
   [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/profile/pablo_csstep)](https://www.hackerrank.com/profile/pablo_csstep)
