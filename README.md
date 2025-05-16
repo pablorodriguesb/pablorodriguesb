@@ -2,12 +2,12 @@
   
 # Pablo Rodrigues Batista
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Backend;Entusiasta+de+Spring+Boot+%26+Java;Apaixonado+por+Boas+Práticas)](https://github.com/pablorodriguesb)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Backend;Entusiasta+de+Spring+Boot+%26+Java)](https://github.com/pablorodriguesb)
 
 <p align="center">
   <a href="https://github.com/pablorodriguesb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pablorodriguesb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pablo.rodriguesbat@hotmail.com"><img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+  <a href="mailto:pablo.rodriguesbat@gmail.com"><img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/pablo_csstep"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
