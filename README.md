@@ -15,7 +15,7 @@
 
 <h2 align="center">👨‍💻 Sobre Mim</h2>
 
-Me chamo Pablo Rodrigues Batista, desenvolvedor backend apaixonado por construir APIs REST eficientes e escaláveis. Atuo com Java e ecossistema Spring, especializado em Spring Boot, Spring Data JPA e Spring Security para desenvolvimento de sistemas robustos.
+Me chamo Pablo Rodrigues Batista, desenvolvedor backend com foco na construção de APIs REST eficientes e escaláveis. Atuo com Java e ecossistema Spring, especializado em Spring Boot, Spring Data JPA e Spring Security para desenvolvimento de sistemas robustos.
 Possuo experiência prática com integração e desenvolvimento de APIs, trabalhando com bancos de dados relacionais (MySQL, PostgreSQL). Tenho sólidos conhecimentos em JPA/Hibernate, padrões de projeto, versionamento com Git e metodologias ágeis.
 
 Estou sempre em busca de aprimorar minhas habilidades técnicas e aplicar as melhores práticas de desenvolvimento, como arquitetura limpa, princípios SOLID e TDD. Valorizo código limpo, testável e de fácil manutenção.
