@@ -78,10 +78,10 @@ CRUD completo com arquitetura em camadas e tratamento de exceções.
 - Spring Security avançado
 
 **Cursos Concluídos:**
-- Java Completo – Udemy (Prof. Leonardo Mourão) – Julho 2025  
-- Java Completo – Udemy (Prof. Nélio Alves) – Abril 2025  
-- Programação Orientada a Objetos com Java – Curso em Vídeo – Março 2025  
-- Lógica de Programação e Algoritmos – Udemy – Fevereiro 2025
+- Java Completo
+- Spring Boot
+- Programação Orientada a Objetos com Java 
+- Lógica de Programação e Algoritmos
 
 ---
 
