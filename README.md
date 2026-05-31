@@ -2,7 +2,7 @@
 
 # Pablo Rodrigues Batista
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+Backend;Java+%7C+Spring+Boot+%7C+APIs+REST)](https://github.com/pablorodriguesb)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&random=false&width=500&lines=Backend+Java+Developer;Spring+Boot+%7C+Keycloak+%7C+APIs+REST)](https://github.com/pablorodriguesb)
 
 <a href="https://www.linkedin.com/in/pablorodriguesb">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,43 +20,48 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor backend com foco em Java e no ecossistema Spring. Trabalho com construção de APIs REST seguindo boas práticas de arquitetura, segurança e testes automatizados. Tenho experiência com autenticação baseada em JWT e OAuth2, integração com bancos relacionais e NoSQL, além de aplicar princípios como SOLID e Clean Code.
+Desenvolvedor Backend Java com atuação em sistemas corporativos, focado no desenvolvimento, sustentação e evolução de aplicações Java.
 
-Atualmente curso Bacharelado em Sistemas de Informação e atuo em projetos próprios aplicando técnicas como TDD, DDD, arquitetura em camadas e uso de ferramentas modernas de desenvolvimento backend.
+Experiência com APIs REST, autenticação e autorização utilizando Spring Security, Keycloak, OAuth2 e JWT, além de persistência de dados com Hibernate/JPA e bancos de dados relacionais.
+
+Atuo na análise e resolução de problemas em ambientes produtivos, modernização de aplicações legadas, implementação de funcionalidades de negócio e melhoria contínua da segurança, confiabilidade e manutenibilidade dos sistemas.
+
+Tenho como base Programação Orientada a Objetos, SOLID, Clean Code e boas práticas de engenharia de software.
 
 ---
 
 ## ⚙️ Stack Tecnológica
 
-**Linguagens:**  
-Java, JavaScript
+### Backend
 
-**Frameworks e Bibliotecas:**  
-Spring Boot, Spring Data JPA, Spring Security, Hibernate, Mockito, JUnit
+Java • Spring Boot • Hibernate/JPA
 
-**APIs & Segurança:**  
-JWT, OAuth2, Swagger/OpenAPI 3.0
+### Segurança
 
-**Bancos de Dados:**  
-MySQL, PostgreSQL, MongoDB, H2 (testes)
+Keycloak • Spring Security • OAuth2 • JWT
 
-**Ferramentas e Ambientes:**  
-Git, GitHub, Maven, IntelliJ IDEA, Docker, Postman, GitHub Actions
+### Bancos de Dados
+
+MySQL • PostgreSQL • MongoDB
+
+### Ferramentas
+
+Docker • Maven • Git • GitHub Actions
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projeto em Destaque
 
 ### [🔗 Sistema de Gerenciamento de Tarefas](https://github.com/pablorodriguesb/task-management-system)
 Aplicação fullstack com autenticação, organização de tarefas e controle por usuário.  
-**Stack:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, MySQL, React  
-**Funcionalidades:** Autenticação, controle de acesso baseado em roles, documentação com Swagger, filtros por status e prioridade.
+Tecnologias: Java, Spring Boot, Spring Security, JWT, Hibernate/JPA, MySQL e React.
 
-### [🔗 Web Services com Spring Boot](https://github.com/pablorodriguesb/ws-springboot-jpa)
-CRUD completo com arquitetura em camadas e tratamento de exceções.  
-**Stack:** Java 17, Spring Boot, JPA/Hibernate, PostgreSQL  
-**Funcionalidades:** Endpoints RESTful, tratamento de erros com `@ExceptionHandler`, separação clara entre camadas (Controller, Service, Repository)
-
+Principais recursos:
+- Autenticação e autorização
+- Controle de acesso baseado em roles
+- Documentação com Swagger
+- Filtros por status e prioridade
+  
 ---
 
 ## 📈 Estatísticas GitHub
@@ -68,20 +73,18 @@ CRUD completo com arquitetura em camadas e tratamento de exceções.
 
 ---
 
-## 📚 Aprendizado Contínuo
+## 📚 Evolução Profissional
 
-**Estudando Atualmente:**
-- Clean Architecture e Domain-Driven Design (DDD)
-- Arquitetura de Microserviços
-- AWS (Serviços básicos de nuvem)
-- Docker e Containerização
-- Spring Security avançado
+Atualmente aprofundando conhecimentos em:
 
-**Cursos Concluídos:**
-- Java Completo
-- Spring Boot
-- Programação Orientada a Objetos com Java 
-- Lógica de Programação e Algoritmos
+* Arquitetura de Software
+* Domain-Driven Design (DDD)
+* Clean Architecture
+* Concorrência e Virtual Threads
+* Arquiteturas Distribuídas
+* Cloud Computing (AWS)
+
+Formação contínua através de cursos, projetos práticos e aplicação dos conceitos no desenvolvimento de sistemas corporativos.
 
 ---
 
