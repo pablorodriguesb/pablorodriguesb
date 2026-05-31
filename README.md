@@ -82,7 +82,7 @@ Atualmente aprofundando conhecimentos em:
 * Clean Architecture
 * Concorrência e Virtual Threads
 * Arquiteturas Distribuídas
-* Cloud Computing (AWS)
+* Cloud e Serviços AWS
 
 Formação contínua através de cursos, projetos práticos e aplicação dos conceitos no desenvolvimento de sistemas corporativos.
 
